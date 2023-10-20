@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 hi there dev 2
 =======
 hi there develper 1 here
->>>>>>> 3fe6c2e0e1c22be8b149ab846c6cd989003df396
+
